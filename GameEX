@@ -22,6 +22,10 @@ local FolderGame = Tab2.Folder("Game Scripts", "Find your favorite game scripts 
 local FolderUseful = Tab3.Folder("Useful scripts", "These scripts are like remote spy and dex")
 
 
+
+FolderGame.Button("._. Fe Hub Key is Key", "Execute", function()
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/Kevinor3qxt/FeScripts/main/._."))()
+end)
 FolderGame.Button("Da Hood (faded)", "Execute", function()
    loadstring(game:HttpGet("https://raw.githubusercontent.com/NighterEpic/Faded/main/YesEpic", true))()
 end)
