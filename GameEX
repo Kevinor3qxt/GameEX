@@ -13,7 +13,7 @@ It focuses on updating its scripts Etc
 Make sure to join the discord.
 ]])
 local Folder = Tab1.Folder("Updates", [[
-Added piano auto Player 
+Added piano auto Player And Added a script in useful scripts Sound GUI
 ]])
 local Folder = Tab1.Folder("Credits", [[
 Made By 3qxt#9919
