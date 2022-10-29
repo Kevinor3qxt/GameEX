@@ -7,13 +7,16 @@ local Window = Luminosity.new("GameEX", "v1.0.0", 4370345701)
 local Tab1 = Window.Tab("Home", 6026568198)
 local Tab2 = Window.Tab("Game Scripts", 6022668945)
 local Tab3 = Window.Tab("Useful scripts", 6023426928)
-local Folder = Tab1.Folder("Welcome to GameEX Click here to learn about it", [[
+local Folder = Tab1.Folder("Welcome to GameEX Thanks for buying click here for more", [[
 GameEX is a script hub that will make sure you will be better then everyone
 It focuses on updating its scripts Etc
 Make sure to join the discord.
 ]])
 local Folder = Tab1.Folder("Updates", [[
 released GameEX Useful scripts coming soon
+]])
+local Folder = Tab1.Folder("Credits", [[
+Made By 3qxt#9919
 ]])
 local FolderGame = Tab2.Folder("Game Scripts", "Find your favorite game scripts here!")
 local FolderUseful = Tab3.Folder("Useful scripts", "These scripts are like remote spy and dex")
