@@ -2,7 +2,7 @@
 
 local Luminosity = loadstring(game:HttpGet("https://raw.githubusercontent.com/iHavoc101/Genesis-Studios/main/UserInterface/Luminosity.lua", true))()
 
-local Window = Luminosity.new("GameEX", "v1.0.0", 4370345701)
+local Window = Luminosity.new("GameEX", "v2.0.0", 4370345701)
 
 local Tab1 = Window.Tab("Home", 6026568198)
 local Tab2 = Window.Tab("Game Scripts", 6022668945)
@@ -13,7 +13,7 @@ It focuses on updating its scripts Etc
 Make sure to join the discord.
 ]])
 local Folder = Tab1.Folder("Updates", [[
-released GameEX Useful scripts coming soon
+Added piano auto Player 
 ]])
 local Folder = Tab1.Folder("Credits", [[
 Made By 3qxt#9919
